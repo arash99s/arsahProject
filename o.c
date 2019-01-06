@@ -153,6 +153,7 @@ int main(int argc,char **argv)
             } 
         }
     }
+    int khashoghchi = 0;
 
 
     return 0;
